@@ -1,0 +1,31 @@
+{
+  "server_demo": {
+    "base_url": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do",
+    "fake_lobby_url": "https://socialtournaments.com",
+    "jurisdiction_id": "99",
+    "default_lang": "id",
+    "default_cur": "IDR"
+  },
+  "games": [
+    {
+      "nama": "Gates of Olympus",
+      "kode": "vs20olympus",
+      "img": "https://img.freepik.com/premium-photo/zeus-god-thunder-lightning-olympus-ancient-greece-background-generative-ai_438099-13611.jpg"
+    },
+    {
+      "nama": "Starlight Princess",
+      "kode": "vs20starlight",
+      "img": "https://img.freepik.com/premium-photo/anime-girl-watching-stars-night-generated-by-ai_1038957-321.jpg"
+    },
+    {
+      "nama": "Sweet Bonanza",
+      "kode": "vs20fruitsw",
+      "img": "https://img.freepik.com/premium-photo/candy-land-background-generative-ai_958107-285.jpg"
+    },
+    {
+      "nama": "Aztec Gems",
+      "kode": "vs5aztecgems",
+      "img": "https://img.freepik.com/premium-photo/aztec-calendar-stone-generative-ai_958107-1600.jpg"
+    }
+  ]
+}
