@@ -8,254 +8,284 @@
   },
   "games": [
     {
-      "nama": "Gates of Olympus",
-      "kode": "asd",
-      "img": "https://img.freepik.com/premium-photo/zeus-god-thunder-lightning-olympus-ancient-greece-background-generative-ai_438099-13611.jpg"
+      "nama": "Mahjong Ways 1",
+      "kode": "65",
+      "provider_type": "pgsoft",
+      "custom_url": "https://public.pg-demo.com/demo/?gi=65&lang=id",
+      "img": "../assets/images/games/pgsoft/pgsoft_001.webp"
+    },
+    {
+      "nama": "Mahjong Ways 2",
+      "kode": "74",
+      "provider_type": "pgsoft",
+      "custom_url": "https://public.pg-demo.com/demo/?gi=74&lang=id",
+      "img": "../assets/images/games/pgsoft/pgsoft_119.webp"
+    },
+    {
+      "nama": "Lucky Neko",
+      "kode": "87",
+      "provider_type": "pgsoft",
+      "custom_url": "https://public.pg-demo.com/demo/?gi=87&lang=id",
+      "img": "../assets/images/games/pgsoft/pgsoft_097.webp"
+    },
+    {
+      "nama": "Treasures of Aztec",
+      "kode": "85",
+      "provider_type": "pgsoft",
+      "custom_url": "https://public.pg-demo.com/demo/?gi=85&lang=id",
+      "img": "../assets/images/games/pgsoft/pgsoft_174.webp"
+    },
+    {
+      "nama": "Wild Bandito",
+      "kode": "103",
+      "provider_type": "pgsoft",
+      "custom_url": "https://public.pg-demo.com/demo/?gi=103&lang=id",
+      "img": "../assets/images/games/pgsoft/pgsoft_152.webp"
+    },
+    {
+      "nama": "Dreams of Macau",
+      "kode": "83",
+      "provider_type": "pgsoft",
+      "custom_url": "https://public.pg-demo.com/demo/?gi=83&lang=id",
+      "img": "../assets/images/games/pgsoft/pgsoft_175.webp"
+    },
+    {
+      "nama": "Caishen Wins",
+      "kode": "71",
+      "provider_type": "pgsoft",
+      "custom_url": "https://public.pg-demo.com/demo/?gi=71&lang=id",
+      "img": "../assets/images/games/pgsoft/pgsoft_176.webp"
+    },
+    {
+      "nama": "Ganesha Gold",
+      "kode": "59",
+      "provider_type": "pgsoft",
+      "custom_url": "https://public.pg-demo.com/demo/?gi=59&lang=id",
+      "img": "../assets/images/games/pgsoft/pgsoft_125.webp"
+    },
+    {
+      "nama": "The Great Icescape",
+      "kode": "68",
+      "provider_type": "pgsoft",
+      "custom_url": "https://public.pg-demo.com/demo/?gi=68&lang=id",
+      "img": "../assets/images/games/pgsoft/pgsoft_018.webp"
+    },
+    {
+      "nama": "Ways of the Qilin",
+      "kode": "102",
+      "provider_type": "pgsoft",
+      "custom_url": "https://public.pg-demo.com/demo/?gi=102&lang=id",
+      "img": "../assets/images/games/pgsoft/pgsoft_130.webp"
+    },
+    {
+      "nama": "Crypto Gold",
+      "kode": "91",
+      "provider_type": "pgsoft",
+      "custom_url": "https://public.pg-demo.com/demo/?gi=91&lang=id",
+      "img": "../assets/images/games/pgsoft/pgsoft_005.webp"
+    },
+    {
+      "nama": "Bali Vacation",
+      "kode": "94",
+      "provider_type": "pgsoft",
+      "custom_url": "https://public.pg-demo.com/demo/?gi=94&lang=id",
+      "img": "../assets/images/games/pgsoft/pgsoft_120.webp"
+    },
+    {
+      "nama": "Heist Stakes",
+      "kode": "101",
+      "provider_type": "pgsoft",
+      "custom_url": "https://public.pg-demo.com/demo/?gi=101&lang=id",
+      "img": "../assets/images/games/pgsoft/pgsoft_177.webp"
+    },
+    {
+      "nama": "Honey Trap of Diao Chan",
+      "kode": "1",
+      "provider_type": "pgsoft",
+      "custom_url": "https://public.pg-demo.com/demo/?gi=1&lang=id",
+      "img": "../assets/images/games/pgsoft/pgsoft_178.webp"
+    },
+    {
+      "nama": "Dragon Hatch",
+      "kode": "57",
+      "provider_type": "pgsoft",
+	    "custom_url": "https://public.pg-demo.com/demo/?gi=57&lang=id",
+      "img": "../assets/images/games/pgsoft/pgsoft_158.webp"
     },
     {
       "nama": "Gates of Olympus 1000",
       "kode": "vs20olympx",
-      "img": "https://img.freepik.com/premium-photo/powerful-zeus-character-with-lightning-bolt-mount-olympus-background-intense-dramatic_1142-23375.jpg"
+      "img": "../assets/images/games/pragmaticplay/pragmaticplay_157.webp"
     },
     {
       "nama": "Starlight Princess",
       "kode": "vs20starlight",
-      "img": "https://img.freepik.com/premium-photo/anime-girl-watching-stars-night-generated-by-ai_1038957-321.jpg"
+      "img": "../assets/images/games/pragmaticplay/pragmaticplay_046.webp"
     },
     {
       "nama": "Starlight Princess 1000",
       "kode": "vs20starlightx",
-      "img": "https://img.freepik.com/premium-photo/manga-style-portrait-young-woman-with-long-pink-hair-blue-eyes_899449-34282.jpg"
+      "img": "../assets/images/games/pragmaticplay/pragmaticplay_190.webp"
     },
     {
       "nama": "Sweet Bonanza",
       "kode": "vs20fruitsw",
-      "img": "https://img.freepik.com/premium-photo/candy-land-background-generative-ai_958107-285.jpg"
+      "img": "../assets/images/games/pragmaticplay/pragmaticplay_002.webp"
     },
     {
       "nama": "Sweet Bonanza 1000",
       "kode": "vs20fruitswx",
-      "img": "https://img.freepik.com/premium-photo/colorful-candyland-background-sweet-bonanza-style-generative-ai_958107-1612.jpg"
+      "img": "../assets/images/games/pragmaticplay/pragmaticplay_168.webp"
     },
     {
       "nama": "Sugar Rush",
       "kode": "vs20sugarrush",
-      "img": "https://img.freepik.com/premium-photo/colorful-candies-jelly-generative-ai_958107-832.jpg"
-    },
-    {
-      "nama": "Sugar Rush 1000",
-      "kode": "vs20sugarx",
-      "img": "https://img.freepik.com/premium-photo/explosive-colorful-candy-background-sugar-rush-theme-generative-ai_958107-1625.jpg"
+      "img": "../assets/images/games/pragmaticplay/pragmaticplay_112.webp"
     },
     {
       "nama": "Aztec Gems",
       "kode": "vs5aztecgems",
-      "img": "https://img.freepik.com/premium-photo/aztec-calendar-stone-generative-ai_958107-1600.jpg"
+      "img": "../assets/images/games/pragmaticplay/pragmaticplay_118.webp"
     },
     {
       "nama": "Wild West Gold",
       "kode": "vs40wildwest",
-      "img": "https://img.freepik.com/premium-photo/cowboy-sheriff-western-town-sunset-generative-ai_958107-1650.jpg"
-    },
-    {
-      "nama": "Mahjong Wins",
-      "kode": "vs20mahjong",
-      "img": "https://img.freepik.com/premium-photo/mahjong-tiles-dragon-background-chinese-gambling-theme-generative-ai_958107-1675.jpg"
+      "img": "../assets/images/games/pragmaticplay/pragmaticplay_124.webp"
     },
     {
       "nama": "Power of Thor Megaways",
       "kode": "vswayshammthor",
-      "img": "https://img.freepik.com/premium-photo/viking-god-thor-holding-hammer-mjolnir-lightning-background_958107-1688.jpg"
+      "img": "../assets/images/games/pragmaticplay/pragmaticplay_202.webp"
     },
     {
       "nama": "The Dog House Megaways",
       "kode": "vswaysdogs",
-      "img": "https://img.freepik.com/premium-photo/cute-bulldog-dog-house-cartoon-style-generative-ai_958107-1695.jpg"
+      "img": "../assets/images/games/pragmaticplay/pragmaticplay_203.webp"
     },
     {
       "nama": "Fruit Party",
       "kode": "vs20fruitparty",
-      "img": "https://img.freepik.com/premium-photo/fresh-fruit-splash-juice-background-vibrant-colors_958107-1705.jpg"
-    },
-    {
-      "nama": "Pyramid Bonanza",
-      "kode": "vs20pyramid",
-      "img": "https://img.freepik.com/premium-photo/egyptian-pyramids-desert-sunset-pharaoh-treasures_958107-1715.jpg"
-    },
-    {
-      "nama": "Bonanza Gold",
-      "kode": "vs20bonanzagold",
-      "img": "https://img.freepik.com/premium-photo/mining-gold-gems-cave-background-cartoon-style_958107-1725.jpg"
+      "img": "../assets/images/games/pragmaticplay/pragmaticplay_204.webp"
     },
     {
       "nama": "5 Lions Megaways",
       "kode": "vswayslions",
-      "img": "https://img.freepik.com/premium-photo/golden-lion-statue-chinese-style-red-background_958107-1735.jpg"
+      "img": "../assets/images/games/pragmaticplay/pragmaticplay_201.webp"
     },
     {
       "nama": "Great Rhino Megaways",
       "kode": "vswaysrhino",
-      "img": "https://img.freepik.com/premium-photo/african-rhino-savannah-sunset-wildlife-background_958107-1745.jpg"
+      "img": "../assets/images/games/pragmaticplay/pragmaticplay_205.webp"
     },
     {
       "nama": "Joker's Jewels",
       "kode": "vs5joker",
-      "img": "https://img.freepik.com/premium-photo/joker-hat-bells-casino-background-purple-gold_958107-1755.jpg"
+      "img": "../assets/images/games/pragmaticplay/pragmaticplay_017.webp"
     },
     {
       "nama": "SpaceMan",
       "kode": "1301",
-      "img": "https://img.freepik.com/premium-photo/astronaut-flying-space-planet-background-cartoon-style_958107-1765.jpg"
+      "img": "../assets/images/games/pragmaticplay/pragmaticplay_179.webp"
     },
     {
       "nama": "Wisdom of Athena",
       "kode": "vs20procount",
-      "img": "https://img.freepik.com/premium-photo/goddess-athena-ancient-greece-fantasy-art_1038957-345.jpg"
-    },
-    {
-      "nama": "Zeus vs Hades: Gods of War",
-      "kode": "vs20godbattle",
-      "img": "https://img.freepik.com/premium-photo/zeus-vs-hades-epic-battle-gods-lightning-fire-background_1038957-355.jpg"
+      "img": "../assets/images/games/pragmaticplay/pragmaticplay_087.webp"
     },
     {
       "nama": "Gems Bonanza",
       "kode": "vs20goldfever",
-      "img": "https://img.freepik.com/premium-photo/aztec-treasure-gems-gold-cave-background_1038957-365.jpg"
+      "img": "../assets/images/games/pragmaticplay/pragmaticplay_206.webp"
     },
     {
       "nama": "Big Bass Bonanza",
       "kode": "vs10bbbonanza",
-      "img": "https://img.freepik.com/premium-photo/fishing-bass-underwater-hook-cartoon-style_1038957-375.jpg"
-    },
-    {
-      "nama": "Big Bass Splash",
-      "kode": "vs10bbsplash",
-      "img": "https://img.freepik.com/premium-photo/fisherman-throwing-net-river-cartoon-style_1038957-385.jpg"
-    },
-    {
-      "nama": "Bigger Bass Bonanza",
-      "kode": "vs12bbbonanza",
-      "img": "https://img.freepik.com/premium-photo/neon-fishing-city-background-big-fish_1038957-395.jpg"
+      "img": "../assets/images/games/pragmaticplay/pragmaticplay_207.webp"
     },
     {
       "nama": "Madame Destiny Megaways",
       "kode": "vswaysmadame",
-      "img": "https://img.freepik.com/premium-photo/fortune-teller-crystal-ball-mystic-background_1038957-405.jpg"
+      "img": "../assets/images/games/pragmaticplay/pragmaticplay_208.webp"
     },
     {
       "nama": "The Dog House",
       "kode": "vs20doghouse",
-      "img": "https://img.freepik.com/premium-photo/cute-dogs-wooden-house-backyard-background_1038957-415.jpg"
+      "img": "../assets/images/games/pragmaticplay/pragmaticplay_197.webp"
     },
     {
       "nama": "Fruit Party 2",
       "kode": "vs20fparty2",
-      "img": "https://img.freepik.com/premium-photo/fruit-paradise-tropical-background-cartoon_1038957-425.jpg"
+      "img": "../assets/images/games/pragmaticplay/pragmaticplay_209.webp"
     },
     {
       "nama": "Wild Beach Party",
       "kode": "vs20bchprty",
-      "img": "https://img.freepik.com/premium-photo/anime-girl-beach-party-tropical-fruits_1038957-435.jpg"
+      "img": "../assets/images/games/pragmaticplay/pragmaticplay_210.webp"
     },
     {
       "nama": "Cleocatra",
       "kode": "vs20cleocatra",
-      "img": "https://img.freepik.com/premium-photo/egyptian-cat-queen-cleopatra-style-pyramids_1038957-445.jpg"
+      "img": "../assets/images/games/pragmaticplay/pragmaticplay_211.webp"
     },
     {
       "nama": "Sword of Ares",
       "kode": "vs20swordofares",
-      "img": "https://img.freepik.com/premium-photo/spartan-warrior-sword-ancient-greece-background_1038957-455.jpg"
+      "img": "../assets/images/games/pragmaticplay/pragmaticplay_212.webp"
     },
     {
       "nama": "Mochimon",
       "kode": "vs20mochimon",
-      "img": "https://img.freepik.com/premium-photo/cute-anime-monsters-food-truck-background_1038957-465.jpg"
-    },
-    {
-      "nama": "Candy Village",
-      "kode": "vs20candyvill",
-      "img": "https://img.freepik.com/premium-photo/asian-style-candy-land-sweet-world_1038957-475.jpg"
-    },
-    {
-      "nama": "Santa's Great Gifts",
-      "kode": "vs20santagg",
-      "img": "https://img.freepik.com/premium-photo/santa-claus-sleigh-snow-christmas-gifts_1038957-485.jpg"
+      "img": "../assets/images/games/pragmaticplay/pragmaticplay_213.webp"
     },
     {
       "nama": "Shield of Sparta",
       "kode": "vs20sparta",
-      "img": "https://img.freepik.com/premium-photo/spartan-shield-battlefield-war-background_1038957-495.jpg"
+      "img": "../assets/images/games/pragmaticplay/pragmaticplay_214.webp"
     },
     {
       "nama": "Rise of Giza PowerNudge",
       "kode": "vs10nudgeit",
-      "img": "https://img.freepik.com/premium-photo/futuristic-egypt-cyberpunk-pyramids-robot_1038957-505.jpg"
-    },
-    {
-      "nama": "Zombie Carnival",
-      "kode": "vs4096zombie",
-      "img": "https://img.freepik.com/premium-photo/zombie-circus-carnival-spooky-cartoon_1038957-515.jpg"
-    },
-    {
-      "nama": "North Guardians",
-      "kode": "vs50northguard",
-      "img": "https://img.freepik.com/premium-photo/viking-warriors-snow-blizzard-north_1038957-525.jpg"
-    },
-    {
-      "nama": "Fire Strike 2",
-      "kode": "vs10firestrk2",
-      "img": "https://img.freepik.com/premium-photo/burning-dice-fire-background-casino_1038957-535.jpg"
-    },
-    {
-      "nama": "Drill That Gold",
-      "kode": "vs20miners",
-      "img": "https://img.freepik.com/premium-photo/dwarf-miner-drill-gold-mine-cartoon_1038957-545.jpg"
+      "img": "../assets/images/games/pragmaticplay/pragmaticplay_215.webp"
     },
     {
       "nama": "Barn Festival",
       "kode": "vs20farmfest",
-      "img": "https://img.freepik.com/premium-photo/farm-barn-vegetables-festival-cartoon_1038957-555.jpg"
+      "img": "../assets/images/games/pragmaticplay/pragmaticplay_216.webp"
     },
     {
       "nama": "Tic Tac Take",
       "kode": "vs10tictac",
-      "img": "https://img.freepik.com/premium-photo/x-o-game-neon-lights-disco-background_1038957-565.jpg"
+      "img": "../assets/images/games/pragmaticplay/pragmaticplay_217.webp"
     },
     {
       "nama": "Rainbow Gold",
       "kode": "vs20rainbowg",
-      "img": "https://img.freepik.com/premium-photo/leprechaun-pot-gold-rainbow-forest_1038957-575.jpg"
-    },
-    {
-      "nama": "Wild West Duels",
-      "kode": "vs20wildwest",
-      "img": "https://img.freepik.com/premium-photo/cowboy-duel-gunfight-western-town_1038957-585.jpg"
-    },
-    {
-      "nama": "Mystery of the Orient",
-      "kode": "vs25mystery",
-      "img": "https://img.freepik.com/premium-photo/asian-princess-sword-warrior-oriental_1038957-595.jpg"
+      "img": "../assets/images/games/pragmaticplay/pragmaticplay_218.webp"
     },
     {
       "nama": "Club Tropicana",
       "kode": "vs12tropicana",
-      "img": "https://img.freepik.com/premium-photo/tropical-bar-cocktails-beach-party_1038957-605.jpg"
+      "img": "../assets/images/games/pragmaticplay/pragmaticplay_219.webp"
     },
     {
       "nama": "Peak Power",
       "kode": "vs10powerlines",
-      "img": "https://img.freepik.com/premium-photo/electric-power-plant-lightning-energy_1038957-615.jpg"
+      "img": "../assets/images/games/pragmaticplay/pragmaticplay_220.webp"
     },
     {
-      "nama": "Gatot Kaca's Fury",
-      "kode": "vs20gatotkaca",
-      "img": "https://img.freepik.com/premium-photo/indonesian-hero-gatot-kaca-wayang-style_1038957-625.jpg"
+      "nama": "Crown Of Fire ",
+      "kode": "vsprg10cfire",
+      "img": "../assets/images/games/pragmaticplay/pragmaticplay_221.webp"
     },
     {
-      "nama": "888 Gold",
-      "kode": "vs5888gold",
-      "img": "https://img.freepik.com/premium-photo/classic-slot-machine-888-gold-coins_1038957-635.jpg"
+      "nama": "Hot To Burn",
+      "kode": "vsprg5hburn",
+      "img": "../assets/images/games/pragmaticplay/pragmaticplay_222.webp"
+    },
+    {
+      "nama": "Tiki Hut Megaways",
+      "kode": "vsprgwaysth",
+      "img": "../assets/images/games/pragmaticplay/pragmaticplay_223.webp"
     }
   ]
 }
