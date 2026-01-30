@@ -1,7 +1,7 @@
 {
-  "server_demo": {
+"server_demo": {
     "base_url": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do",
-    "fake_lobby_url": "https://socialtournaments.com",
+    "fake_lobby_url": "https://www.pragmaticplay.fun",
     "jurisdiction_id": "99",
     "default_lang": "id",
     "default_cur": "IDR"
@@ -9,7 +9,7 @@
   "games": [
     {
       "nama": "Gates of Olympus",
-      "kode": "vs20olympus",
+      "kode": "asd",
       "img": "https://img.freepik.com/premium-photo/zeus-god-thunder-lightning-olympus-ancient-greece-background-generative-ai_438099-13611.jpg"
     },
     {
