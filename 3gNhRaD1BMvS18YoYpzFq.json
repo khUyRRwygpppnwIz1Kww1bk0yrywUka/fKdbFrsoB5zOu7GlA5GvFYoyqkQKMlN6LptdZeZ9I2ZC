@@ -23,16 +23,16 @@
     },
     {
       "nama": "Lucky Neko",
-      "kode": "87",
+      "kode": "89",
       "provider_type": "pgsoft",
-      "custom_url": "https://public.pg-demo.com/demo/?gi=87&lang=id",
+      "custom_url": "https://public.pg-demo.com/demo/?gi=89&lang=id",
       "img": "../assets/images/games/pgsoft/pgsoft_097.webp"
     },
     {
       "nama": "Treasures of Aztec",
-      "kode": "85",
+      "kode": "87",
       "provider_type": "pgsoft",
-      "custom_url": "https://public.pg-demo.com/demo/?gi=85&lang=id",
+      "custom_url": "https://public.pg-demo.com/demo/?gi=87&lang=id",
       "img": "../assets/images/games/pgsoft/pgsoft_174.webp"
     },
     {
@@ -79,9 +79,9 @@
     },
     {
       "nama": "Crypto Gold",
-      "kode": "91",
+      "kode": "103",
       "provider_type": "pgsoft",
-      "custom_url": "https://public.pg-demo.com/demo/?gi=91&lang=id",
+      "custom_url": "https://public.pg-demo.com/demo/?gi=103&lang=id",
       "img": "../assets/images/games/pgsoft/pgsoft_005.webp"
     },
     {
